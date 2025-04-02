@@ -28,8 +28,8 @@ Este conjunto de datos de detección de intrusiones de ciberseguridad está dise
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/mikewig">
-        <img src="" width="100px;" alt="Polina"/>
+      <a href="https://github.com/fintihlupik">
+        <img src="https://avatars.githubusercontent.com/u/53350261?v=4" width="100px;" alt="Polina"/>
         <br />
         <sub><b>Polina</b></sub>
       </a>
